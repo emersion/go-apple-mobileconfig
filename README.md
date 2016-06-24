@@ -11,7 +11,7 @@ package main
 
 import (
 	"os"
-	"github.com/emersion/go-apple-mobileconfig"
+	"github.com/ProtonMail/go-apple-mobileconfig"
 )
 
 func main() {
