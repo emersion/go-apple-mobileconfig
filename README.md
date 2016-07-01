@@ -1,5 +1,7 @@
 # go-apple-mobileconfig
 
+[![GoDoc](https://godoc.org/github.com/ProtonMail/go-apple-mobileconfig?status.svg)](https://godoc.org/github.com/ProtonMail/go-apple-mobileconfig)
+
 Create Apple mobileconfig configuration files.
 
 Based on Node [`mobileconfig`](https://github.com/andris9/mobileconfig) module.
