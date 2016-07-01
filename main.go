@@ -9,6 +9,7 @@ import (
 
 var t = template.Must(template.New("mobileconfig").Parse(mailTemplate))
 
+// An Apple mobileconfig file.
 type Config struct {
 	EmailAddress string
 	DisplayName string
